@@ -24,6 +24,17 @@
                         <li><a href="exercicio.php?dir=basico&file=desafio">Desafio 1</a></li>
                     </ul>
                 </div>
+                <div class="modulo vermelho">
+                    <h3>Módulo 01</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=tipos&file=int">Tipo inteiro</a></li>
+                        <li><a href="exercicio.php?dir=tipos&file=float">Tipo Float</a></li>
+                        <li><a href="exercicio.php?dir=tipos&file=aritmeticas">Operações Aritméticas</a></li>
+                        <li><a href="exercicio.php?dir=tipos&file=desafio_precedencia">Desafio precedência</a></li>
+                        <li><a href="exercicio.php?dir=tipos&file=string">Tipo String</a></li>
+                        <li><a href="exercicio.php?dir=tipos&file=desafio_string">Desafio String</a></li>
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
