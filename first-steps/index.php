@@ -25,7 +25,7 @@
                     </ul>
                 </div>
                 <div class="modulo vermelho">
-                    <h3>Módulo 01</h3>
+                    <h3>Tipos</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=tipos&file=int">Tipo inteiro</a></li>
                         <li><a href="exercicio.php?dir=tipos&file=float">Tipo Float</a></li>
@@ -35,6 +35,13 @@
                         <li><a href="exercicio.php?dir=tipos&file=desafio_string">Desafio String</a></li>
                         <li><a href="exercicio.php?dir=tipos&file=booleano">Tipo Booleano</a></li>
                         <li><a href="exercicio.php?dir=tipos&file=conversoes">Conversões</a></li>
+                    </ul>
+                </div>
+                <div class="modulo azul">
+                    <h3>Variáveis</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=variaveis&file=basico">Basico</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=desafio">Desafio</a></li>
                     </ul>
                 </div>
             </nav>
