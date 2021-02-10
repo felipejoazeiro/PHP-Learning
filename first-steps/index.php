@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -42,6 +42,12 @@
                     <ul>
                         <li><a href="exercicio.php?dir=variaveis&file=basico">Basico</a></li>
                         <li><a href="exercicio.php?dir=variaveis&file=desafio">Desafio</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=atribuicao">Atribuição</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=interpolacao">Interpolação</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=variaveis">Variaveis</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=desafio-variaveis">Desafio Variaveis</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=valor_referencias">Valor Referências</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=constantes">Constantes</a></li>
                     </ul>
                 </div>
             </nav>
